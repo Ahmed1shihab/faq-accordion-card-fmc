@@ -8,7 +8,7 @@
     --lightGrayBlue: hsl(240, 5%, 91%);
 }
 html {
-    overflow-x: hidden;
+    overflow: hidden;
 }
 *,
 *::before,
